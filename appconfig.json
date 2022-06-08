@@ -1,0 +1,8 @@
+{
+    "name": "fsm-scp-ui5-extension-app",
+    "provider": "Roadrunner Team",
+    "description": "FSM SCP UI5 Extension App",
+    "version": "1.0.0",
+    "icon": "",  
+    "parameters": []
+}
