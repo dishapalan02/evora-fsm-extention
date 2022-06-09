@@ -1,8 +1,8 @@
 {
     "name": "fsm-scp-ui5-extension-app",
-    "provider": "Roadrunner Team",
+    "provider": "Evora IT Solutions",
     "description": "FSM SCP UI5 Extension App",
     "version": "1.0.0",
-    "icon": "",  
+    "icon": "sap.cp.fsmextension.evora_logo.png",  
     "parameters": []
 }
