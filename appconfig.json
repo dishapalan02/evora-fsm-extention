@@ -3,6 +3,6 @@
     "provider": "Evora IT Solutions",
     "description": "EVORA Extension",
     "version": "1.0.0",
-    "icon": "./evora_logo.png",  
+    "icon": "https://dishapalan02.github.io/evora-fsm-extention/evora_logo.png",  
     "parameters": []
 }
