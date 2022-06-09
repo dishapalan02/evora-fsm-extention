@@ -1,6 +1,6 @@
 {
     "name": "user-details",
-    "provider": "Evora IT Solutions Pvt Ltd",
+    "provider": "Evora IT Solutions",
     "description": "Display account, company and user details",
     "version": "1.0.0",
     "icon": "https://dishapalan02.github.io/evora-fsm-extention/evora_logo.png",  
