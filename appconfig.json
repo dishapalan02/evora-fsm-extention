@@ -3,6 +3,6 @@
     "provider": "Evora IT Solutions",
     "description": "FSM SCP UI5 Extension App",
     "version": "1.0.0",
-    "icon": "sap.cp.fsmextension.evora_logo.png",  
+    "icon": "./evora_logo.png",  
     "parameters": []
 }
